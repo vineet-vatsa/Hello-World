@@ -1,2 +1,6 @@
 # Hello-World
-Demo Repsitory
+
+Hi All,
+
+I love to code in AS400 all porgrammign language.
+
